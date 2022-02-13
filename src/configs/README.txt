@@ -1,0 +1,1 @@
+Eğitilen modellerin konfigurasyonları.

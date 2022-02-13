@@ -1,0 +1,1 @@
+Modellerin eğitilmiş checkpointleri.
