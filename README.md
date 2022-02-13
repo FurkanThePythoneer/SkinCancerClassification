@@ -6,7 +6,7 @@ Ortam:
 - 4 NVIDIA Quadro RTX 6000 24GB 
 
 # Kullanım:
-## Python ortamınu kurun
+## Gerekenleri indirin
 ```
 conda create -n melanoma python=3.7 pip
 pip install -r requirements.txt
