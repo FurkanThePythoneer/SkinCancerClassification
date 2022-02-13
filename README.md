@@ -22,9 +22,9 @@ kaggle competitions download -c siim-isic-melanoma-classification
 unzip siim-isic-melanoma-classification.zip 
 ```
 
-## [Tercih] Modelin eğitilmiş ve %93+ doğru teşhis oranına sahip ağırlıkları:
+## [Tercih] Modelin eğitilmiş ve %93+ doğru teşhis oranına sahip ağırlıkları ve eğitim logları:
 ```
-some google.cloud link
+https://drive.google.com/file/d/13o86SyGwufN_QJiWvJ98G0s-elLnOaqK/view?usp=sharing
 ```
 
 ## ISIC 2019 modelini eğitin
