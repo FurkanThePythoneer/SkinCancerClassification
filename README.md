@@ -12,7 +12,7 @@ conda create -n melanoma python=3.7 pip
 pip install -r requirements.txt
 ```
 
-## Veri setlerini nidirin
+## Veri setlerini indirin
 ```
 cd data/isic2019
 bash download_isic2019.sh
@@ -22,6 +22,10 @@ kaggle competitions download -c siim-isic-melanoma-classification
 unzip siim-isic-melanoma-classification.zip 
 ```
 
+## [Tercih] Modelin eğitilmiş ve %93+ doğru teşhis oranına sahip ağırlıkları:
+```
+some google.cloud link
+```
 
 ## ISIC 2019 modelini eğitin
 ```
